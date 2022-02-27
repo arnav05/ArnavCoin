@@ -18,8 +18,8 @@ class ArnavCoinBlock:
 t1 = "Arnav sends 2 AC to Agastya"
 t2 = "Arnav sends 2 AC to Olwen"
 t3 = "Arnav sends 1.5 AC to Harry Potter"
-t4 = "Harry Potter sends 1 AC to Harmaoni Granger"
-t5 = "Harmaoni Granger sends 0.75 SC to Olwen"
+t4 = "Harry Potter sends 1 AC to Hermione Granger"
+t5 = "Hermione Granger sends 0.75 SC to Olwen"
 t6 = "Olwen sends 0.75 AC to Ron Weasley"
 
 # Creating 1st block for the blockchain, i.e genesis block and 1st transactions.
